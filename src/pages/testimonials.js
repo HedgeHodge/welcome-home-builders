@@ -4,7 +4,7 @@ import Header from "../components/header"
 export default function About() {
   return (
     <div style={{ color: `teal` }}>
-      <Header headerText="Welcome Home Builders" />
+      <Header />
       <p>Such wow. Very React.</p>
     </div>
   )
